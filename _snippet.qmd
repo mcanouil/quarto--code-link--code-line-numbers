@@ -1,0 +1,15 @@
+## Playground
+
+This is a playground for `code-line-numbers`.
+
+- Normal code block.
+
+```r
+stats::rnorm(1)
+```
+
+- Computational code block.
+  
+```{r}
+stats::rnorm(2)
+```

@@ -1,0 +1,5 @@
+---
+code-link: true
+---
+
+{{< include _snippet.qmd >}}
